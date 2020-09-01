@@ -3,18 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap -->
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
       integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
     />
+    <!-- Bootswatch -->
     <link rel="stylesheet" href="assets/bootstrap.min.css" />
+    <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap" rel="stylesheet">
     <title>Document</title>
     <style>
       header h1 {
         font-family: 'EB Garamond', serif;
+        color:darkgoldenrod;
       }
     </style>
   </head>
@@ -63,20 +67,20 @@
       <form>
         <section class="form-group">
           <label for="name">Name</label>
-          <input type="text" class="form-control"  placeholder="Name">
+          <input type="text" class="form-control" id="name1" placeholder="Name">
         </section>
         <section class="form-group">
           <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email">
+          <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
           <small class="form-text text-muted">We'll never share your email with anyone else.</small>
         </section>
         <section class="form-group">
           <label for="exampleFormControlTextarea1">Message</label>
-          <textarea class="form-control" rows="3" cols="2">
+          <textarea class="form-control" id="message1" rows="3" cols="2">
           </textarea>
         </section>
 
-        <button type="button" class="btn btn-light">Submit</button>
+        <button type="button" class="btn btn-primary">Submit</button>
 
       </form>
 
