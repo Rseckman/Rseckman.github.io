@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Simple Resume",
+      "image":"../assets/images/simpleResume.png",
+      "github": "https://github.com/Rseckman/simpleResume",
+      "deployed": "https://group1-simple-resume.herokuapp.com/"
+    },
+    {
+      "id": 2,
+      "name": "Walk-it-Off",
+      "image":
+        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "github": "https://github.com/Rseckman/Walk-it-off",
+      "deployed": "https://rseckman.github.io/Walk-it-off/"
+    },
+    {
+      "id": 3,
+      "name": "Employee-Directory",
+      "image":
+        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "github": "https://github.com/Rseckman/employeeDirectory",
+      "deployed": "https://employee-directory-cartoons.herokuapp.com/"
+    }
+  ]
+  
