@@ -15,7 +15,8 @@ function Project (props) {
                         <Card.Title>{props.name}</Card.Title>
                         <Card.Text>
                         </Card.Text>
-                        <Button variant="primary" target="_blank" href={props.deployed}>Deployed Site</Button>
+                        <Button variant="info" target="_blank" href={props.deployed}>Deployed Site</Button>
+                        <Button className="ml-3" variant="outline-dark" target="_blank" href={props.github}>Github</Button>
                     </Card.Body>
                 </Card>
             </Col>

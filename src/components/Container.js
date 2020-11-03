@@ -4,6 +4,7 @@ import Portfolio from "../pages/portfolio";
 import About from "../pages/about";
 import Contact from "../pages/contact";
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import Footer from "./Footer"
 
 
 function Container() {
@@ -17,6 +18,9 @@ function Container() {
             <Route exact path="/portfolio" component={Portfolio} />
             <Route path="/contact" component={Contact} />
           </div>
+          <br />
+          <br />
+          <Footer />
         </div>
       </Router>
     );

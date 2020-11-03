@@ -7,7 +7,7 @@ import { Container, CardGroup } from "react-bootstrap"
 const Portfolio = () => (
   <>
     <Header title="Portfolio"/>
-      <Container fluid>
+      <Container >
         <CardGroup>
           {projectList.map(project => 
             <Project 
