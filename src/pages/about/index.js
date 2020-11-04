@@ -41,12 +41,7 @@ const About = () => (
           </Card.Text>
         </Card.Body>
       </Card>
-
-
-
-        
-        
-      </Container>
+    </Container>
     </>
 );
 

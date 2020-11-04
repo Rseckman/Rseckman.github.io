@@ -5,7 +5,7 @@ body{
 #jumbotron {
     background-image: url(/src/assets/images/pexels.jpg);
     color:white;
-    opacity: 70%;
+    opacity: 0.7;
 }
 
 #jumboText {
