@@ -3,7 +3,7 @@ import Navigation from "./Nav";
 import Portfolio from "../pages/portfolio";
 import About from "../pages/about";
 import Contact from "../pages/contact";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import Footer from "./Footer"
 
 
