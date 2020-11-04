@@ -1,24 +1,18 @@
 import React from "react";
 import Picture from "../../assets/Ryan-Headshot.jpg"
 import Header from "../../components/Header"
-import { Container, Row } from "react-bootstrap"
+import { Container, Card } from "react-bootstrap"
+
 
 const About = () => (
   <>
     <Header title="About"/>
     <Container className="my-5 pb-5">
-        <Row className="row card bg-light">
-          <section>
-            <img
-              id="bio-image"
-              src={Picture}
-              className="card-img-left float-left img-fluid mr-3"
-              alt="Ryan Headshot"
-              height="368"
-              width="552"
-            />
-            <section className="card-body">
-              <h4 className="card-title">Ryan Seckman</h4>
+      <Card>
+        <Card.Img variant="top" src={Picture} />
+        <Card.Body>
+          <Card.Text>
+            <h4 className="card-title">Ryan Seckman</h4>
               <p>
                 I was born in Beaver, Pennsylvania; grew up in Germantown,
                 Maryland; attended Eastern University in St. Davids, PA for a
@@ -44,9 +38,14 @@ const About = () => (
                 things and take what I learn now and continue to grow as a
                 Developer and in my career.
               </p>
-            </section>
-          </section>
-        </Row>
+          </Card.Text>
+        </Card.Body>
+      </Card>
+
+
+
+        
+        
       </Container>
     </>
 );

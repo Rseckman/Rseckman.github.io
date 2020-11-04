@@ -1,0 +1,29 @@
+body{
+    background-image: url(/src/assets/images/white-waves.png);
+}
+
+#jumbotron {
+    background-image: url(/src/assets/images/pexels.jpg);
+    color:white;
+    opacity: 70%;
+}
+
+#jumboText {
+    font-family: 'Assistant', sans-serif;
+}
+
+#footer {
+    background-color: rgba(241, 236, 236, 0.425);
+}
+
+#navbar {
+    font-family: 'Assistant', sans-serif;
+}
+
+#navbarBrand{
+    font-size: 30px;
+}
+
+#navbarList {
+    font-size: 20px;
+}

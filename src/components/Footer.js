@@ -1,8 +1,8 @@
 import React from "react";
-import { Navbar, Nav } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 
 const Footer = (props) => (
-    <Navbar fixed="bottom" bg="light" className="justify-content-center">
+    <Navbar fixed="bottom" className="justify-content-center" id="footer">
         <Navbar.Brand> Copyright 2020 </Navbar.Brand>
     </Navbar>
   );
