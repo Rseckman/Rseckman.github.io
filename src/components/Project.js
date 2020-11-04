@@ -9,7 +9,7 @@ function Project (props) {
     return (
         <>
             <Col>
-                <Card className="my-3" style={{ width: '30rem' }}>
+                <Card className="my-3" style={{ width: '24rem' }}>
                     <Card.Img variant="top" src={props.image} />
                     <Card.Body>
                         <Card.Title>{props.name}</Card.Title>
