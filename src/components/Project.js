@@ -1,7 +1,5 @@
 import React from "react";
 import { Card, Button, Col } from "react-bootstrap";
-import Picture from "../assets/images/simpleResume.png"
-
 
 
 function Project (props) {

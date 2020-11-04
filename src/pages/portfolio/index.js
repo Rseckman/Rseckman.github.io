@@ -13,7 +13,7 @@ const Portfolio = () => (
             <Project 
             name={project.name}
             github={project.github}
-            deployed={project.github}
+            deployed={project.deployed}
             image={project.image}
             />
           )}
