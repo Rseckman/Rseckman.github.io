@@ -1,42 +1,44 @@
 [
-    {
-      "id": 1,
-      "name": "Simple Resume",
-      "image":"https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/simpleResume.png?raw=true",
-      "github": "https://github.com/Rseckman/simpleResume",
-      "deployed": "https://group1-simple-resume.herokuapp.com/"
-    },
-    {
-      "id": 2,
-      "name": "Walk-it-Off",
-      "image":
-        "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/walkItOff.png?raw=true",
-      "github": "https://github.com/Rseckman/Walk-it-off",
-      "deployed": "https://rseckman.github.io/Walk-it-off/"
-    },
-    {
-      "id": 3,
-      "name": "Employee-Directory",
-      "image":
-        "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/employeeDirectory.png?raw=true",
-      "github": "https://github.com/Rseckman/employeeDirectory",
-      "deployed": "https://employee-directory-cartoons.herokuapp.com/"
-    },
-    {
-      "id": 4,
-      "name": "Fitness-Tracker",
-      "image":
-        "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/fitnessTracker.png?raw=true",
-      "github": "https://github.com/Rseckman/fitnessTracker",
-      "deployed": "https://ryans-workout-tracker.herokuapp.com/"
-    },
-    {
-      "id": 5,
-      "name": "Online-Offline_Budget-Tracker",
-      "image":
-        "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/budgetTracker.png?raw=true",
-      "github": "https://github.com/Rseckman/online-offline-budget-tracker",
-      "deployed": "https://offline-online-budget.herokuapp.com/"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Travel Buddy",
+    "image": "https://github.com/Rseckman/TraveBuddy/blob/main/travelBuddy.png?raw=true",
+    "github": "https://github.com/Rseckman/TraveBuddy",
+    "deployed": "https://travel-buddy3.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "Simple Resume",
+    "image": "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/simpleResume.png?raw=true",
+    "github": "https://github.com/Rseckman/simpleResume",
+    "deployed": "https://group1-simple-resume.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Walk-it-Off",
+    "image": "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/walkItOff.png?raw=true",
+    "github": "https://github.com/Rseckman/Walk-it-off",
+    "deployed": "https://rseckman.github.io/Walk-it-off/"
+  },
+  {
+    "id": 4,
+    "name": "Employee-Directory",
+    "image": "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/employeeDirectory.png?raw=true",
+    "github": "https://github.com/Rseckman/employeeDirectory",
+    "deployed": "https://employee-directory-cartoons.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Fitness-Tracker",
+    "image": "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/fitnessTracker.png?raw=true",
+    "github": "https://github.com/Rseckman/fitnessTracker",
+    "deployed": "https://ryans-workout-tracker.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "name": "Online-Offline_Budget-Tracker",
+    "image": "https://github.com/Rseckman/Rseckman.github.io/blob/master/src/assets/images/budgetTracker.png?raw=true",
+    "github": "https://github.com/Rseckman/online-offline-budget-tracker",
+    "deployed": "https://offline-online-budget.herokuapp.com/"
+  }
+]

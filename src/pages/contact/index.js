@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/Header"
 import { Container, Card, ListGroup} from "react-bootstrap"
-import Resume from "../../assets/Resume.pdf";
+
 
 const Contact = () => (
   <>
@@ -17,7 +17,7 @@ const Contact = () => (
             <ListGroup.Item action variant="info" target="_blank" href="https://www.linkedin.com/in/ryan-seckman">
               <strong>LinkedIn</strong>
             </ListGroup.Item>
-            <ListGroup.Item action variant="info" target="_blank" href={Resume}>
+            <ListGroup.Item action variant="info" target="_blank" href="https://docs.google.com/document/d/1bKiF9OigWpjZqPHbOt2uvfqWt7EKNmrRecNH-uR5hV4/edit?usp=sharing">
               <strong>My Resume</strong>
             </ListGroup.Item>
         </ListGroup>
