@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/Header"
 import { Container, Card, ListGroup} from "react-bootstrap"
-import Resume from "../../assets/Ryan Seckman Resume (March 2021).pdf"
+import Resume from "../../assets/RyanSeckmanResume.pdf"
 
 
 const Contact = () => (
