@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7805fa6e.chunk.css",
-    "main.js": "/static/js/main.838c411e.chunk.js",
-    "main.js.map": "/static/js/main.838c411e.chunk.js.map",
+    "main.js": "/static/js/main.4f8785df.chunk.js",
+    "main.js.map": "/static/js/main.4f8785df.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.291a5225.js",
     "runtime-main.js.map": "/static/js/runtime-main.291a5225.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -13,7 +13,6 @@
     "static/css/main.7805fa6e.chunk.css.map": "/static/css/main.7805fa6e.chunk.css.map",
     "static/js/2.bbcd098a.chunk.js.LICENSE.txt": "/static/js/2.bbcd098a.chunk.js.LICENSE.txt",
     "static/media/Ryan-Headshot.b94cca78.jpg": "/static/media/Ryan-Headshot.b94cca78.jpg",
-    "static/media/RyanSeckmanResume.b0bbb9f9.pdf": "/static/media/RyanSeckmanResume.b0bbb9f9.pdf",
     "static/media/App.css": "/static/media/white-waves.35c8c6cb.png"
   },
   "entrypoints": [
@@ -21,6 +20,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.bbcd098a.chunk.js",
     "static/css/main.7805fa6e.chunk.css",
-    "static/js/main.838c411e.chunk.js"
+    "static/js/main.4f8785df.chunk.js"
   ]
 }
