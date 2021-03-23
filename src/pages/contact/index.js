@@ -18,7 +18,7 @@ const Contact = () => (
             <ListGroup.Item action variant="info" target="_blank" href="https://www.linkedin.com/in/ryan-seckman">
               <strong>LinkedIn</strong>
             </ListGroup.Item>
-            <ListGroup.Item action variant="info" target="_blank" href="https://docs.google.com/document/d/1bKiF9OigWpjZqPHbOt2uvfqWt7EKNmrRecNH-uR5hV4/edit?usp=sharing">
+            <ListGroup.Item action variant="info" target="_blank" href="https://drive.google.com/file/d/1nd4nxEWWzxPlB6EicSWqGq1K4aTnIkIA/view?usp=sharing">
               <strong>My Resume</strong>
             </ListGroup.Item>
         </ListGroup>
